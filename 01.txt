@@ -1,0 +1,24 @@
+💡 Các tính năng chính của Google Apps Script
+Tự động hóa tác vụ: Apps Script giúp bạn tự động hóa các công việc lặp đi lặp lại. Ví dụ:
+
+Tự động gửi email thông báo khi có dữ liệu mới trong Google Sheets.
+
+Lên lịch sao lưu tệp từ thư mục này sang thư mục khác trong Google Drive.
+
+Tự động tạo sự kiện trên Google Calendar từ dữ liệu trong Google Sheets.
+
+Tích hợp dịch vụ của Google: Nó cho phép các dịch vụ của Google "nói chuyện" với nhau hoặc kết nối với các dịch vụ bên ngoài thông qua API:
+
+Tạo một hàm tùy chỉnh trong Google Sheets để lấy dữ liệu từ một API bên ngoài.
+
+Kết nối Google Forms với Google Docs để tạo tài liệu tự động.
+
+Gửi email từ Gmail dựa trên dữ liệu trong Google Sheets.
+
+Phát triển ứng dụng tùy chỉnh:
+
+Tạo Menu, Hộp thoại (Dialogs), và Thanh bên (Sidebars) tùy chỉnh trong Google Docs, Sheets, và Forms.
+
+Phát triển Web Apps (Ứng dụng web) độc lập hoặc nhúng vào Google Sites.
+
+Xây dựng Add-ons (Tiện ích bổ sung) và xuất bản lên Google Workspace Marketplace
